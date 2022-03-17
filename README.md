@@ -1,0 +1,2 @@
+# MapExamples
+Example Static Maps
