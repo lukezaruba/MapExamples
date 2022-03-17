@@ -1,7 +1,7 @@
 # MapExamples
 This is a collection of static maps created during my undergraduate studies.
 
-All images are pictured below (with the exception of the Iceland map) and are also stored as PNGs in this repo.
+All images are pictured below (with the exception of the Iceland map, which is too large to display) and are also stored as PNGs in this repo.
 
 ![snowfallForecastVerification](https://user-images.githubusercontent.com/97996027/158722884-e4f3929f-aa2e-4b1f-a020-f73cba233a51.png)
 
