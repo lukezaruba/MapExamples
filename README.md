@@ -12,3 +12,5 @@ All images are pictured below (with the exception of the Iceland map, which is t
 ![turbineSiteSuitability](https://user-images.githubusercontent.com/97996027/158722910-3f4dd2c4-b57f-4cc0-84f8-1b7bee7da66b.png)
 
 ![vtAccidents_densitySurface](https://user-images.githubusercontent.com/97996027/158722776-c9d3cef9-f8ea-4471-82eb-7fdf3f9551f2.png)
+
+![yosemiteEmergencies](https://user-images.githubusercontent.com/97996027/159182995-9a5575c9-d426-407e-a787-cdf662d55180.png)
